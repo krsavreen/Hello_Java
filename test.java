@@ -1,5 +1,3 @@
-package firstjavaproj;
-
 public class test 
 {
 
