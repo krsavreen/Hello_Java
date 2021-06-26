@@ -13,5 +13,6 @@ public class test
 	public static void greet()
 	{
      System.out.println("Hi! How are you?");
+     System.out.println("What is your name?");
 	}
 }
